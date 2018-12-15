@@ -1,2 +1,8 @@
-# App-Padrao
-Repositório Do Aplicativo de Padrão Torrent
+# app_site
+
+A new Flutter application.
+
+## Getting Started
+
+For help getting started with Flutter, view our online
+[documentation](https://flutter.io/).
